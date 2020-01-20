@@ -18,6 +18,11 @@ h4 {
     width: 30%
 }
 
+#projects-column{
+    float: left;
+    width: 40%
+}
+
 .row {
     font-size: 0.8em;
 }
