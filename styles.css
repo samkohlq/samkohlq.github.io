@@ -1,3 +1,11 @@
-#header {
-    font-size: 30px;
+h1 {
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    margin: 20px 0px 0px 20px;
+}
+
+#bio {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px 0px 0px 20px;
+    font-size: 13px;
+    width: 800px;
 }
