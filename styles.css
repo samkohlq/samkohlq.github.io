@@ -12,15 +12,9 @@ h4 {
     font-style: italic;
 }
 
-img {
-    padding: 10px 5px 0px 0px;
-    width: 90%;
-    border: 1px solid grey;
-}
-
 .column {
     float: left;
-    width: 33.33%
+    width: 30%
 }
 
 .row {
@@ -31,4 +25,10 @@ img {
     content: "";
     display: table;
     clear: both;
+}
+
+img {
+    padding: 10px 5px 0px 0px;
+    width: 90%;
+    border: 1px solid grey;
 }
