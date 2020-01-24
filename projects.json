@@ -33,5 +33,10 @@
     "name": "Twitter",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
     "img_src": "../images/twitter/twitter.png"
+  },
+  {
+    "name": "a news site template",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
+    "img_src": "../images/news_template/news_template.png"
   }
 ]
