@@ -4,8 +4,8 @@ function insertNavBar() {
 }
 
 // only execute function to populate page with project details if we are on the project.html page
-if (window.location.pathname == '/project') {
-  $(document).ready(function () {
+$(document).ready(function () {
+  if ($("body").is(".project")) {
     $.getJSON("projects.json", function (data) {
       var urlParam = location.search;
       var projectId = urlParam.charAt(urlParam.length - 1);
@@ -16,7 +16,6 @@ if (window.location.pathname == '/project') {
       // adds img tag, taking image source from JSON file
       project += '<img class="img-fluid" src="' + data[projectId].img_src + '" alt="' + data[projectId].name + '">';
       $("#project").append(project);
-      console.log(project);
     })
-  })
-}
+  }
+})
