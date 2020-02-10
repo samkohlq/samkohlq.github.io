@@ -1,58 +1,108 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+      integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+      crossorigin="anonymous"
+    />
+    <title>sklq</title>
+  </head>
 
-<head>
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-  <title>sklq</title>
-</head>
+  <body onload="insertNavBar()">
+    <div class="container-fluid">
+      <div class="row py-5">
+        <!-- Navbar to be inserted by script from navbar.html-->
+        <div id="navbar-side" class="col-lg-1 col-md-12 mb-5 mx-2"></div>
+        <!-- Project showcase -->
+        <div class="col-lg-9 offset-lg-1 col-md-12">
+          <div class="row">
+            <div class="col-lg-4 col-md-6 col-sm-12">
+              <a href="project.html?projectId=0"
+                ><img
+                  class="img-fluid border border-secondary float-left mb-3"
+                  id="image"
+                  src="images/facebook/facebook.png"
+                  alt="facebook"
+              /></a>
 
-<body onload="insertNavBar()">
-  <div class="container-fluid">
-    <div class="row py-5">
-      <!-- Navbar to be inserted by script from navbar.html-->
-      <div id="navbar-side" class="col-lg-1 col-md-12 mb-5 mx-2"></div>
-      <!-- Project showcase -->
-      <div class="col-lg-9 offset-lg-1 col-md-12">
-        <div class="row">
-          <div class="col-lg-4 col-md-6 col-sm-12">
-            <a href="project.html?projectId=0"><img class="img-fluid border border-secondary float-left mb-3" id="image"
-                src="images/facebook/facebook.png" alt="facebook"></a>
-            <a href="project.html?projectId=1"><img class="img-fluid border border-secondary float-right mb-3"
-                src="images/spotify/spotify.png" alt="spotify"></a>
-            <a href="project.html?projectId=2"><img class="img-fluid border border-secondary float-left mb-3"
-                src="images/straitstimes/straitstimes.png" alt="straits times"></a>
-          </div>
-          <div class="col-lg-4 col-md-6 col-sm-12">
-            <a href="project.html?projectId=3"><img class="img-fluid border border-secondary float-left mb-3"
-                src="images/airbnb/airbnb.png" alt="airbnb"></a>
-            <a href="project.html?projectId=4"><img class="img-fluid border border-secondary float-left mb-3"
-                src="images/deliveroo/deliveroo.png" alt="deliveroo"></a>
-            <a href="project.html?projectId=5"><img class="img-fluid border border-secondary float-left mb-3"
-                src="images/grabfood/grabfood.png" alt="grabfood"></a>
-          </div>
-          <div class="col-lg-4 col-md-6 col-sm-12">
-            <a href="project.html?projectId=6"><img class="img-fluid border border-secondary float-left mb-3"
-                src="images/twitter/twitter.png" alt="twitter"></a>
-            <a href="project.html?projectId=7"><img class="img-fluid border border-secondary float-left mb-3"
-                src="images/news_template/news_template.png" alt="news template"></a>
+              <a href="project.html?projectId=1"
+                ><img
+                  class="img-fluid border border-secondary float-right mb-3"
+                  src="images/spotify/spotify.png"
+                  alt="spotify"
+              /></a>
 
+              <a href="project.html?projectId=2"
+                ><img
+                  class="img-fluid border border-secondary float-left mb-3"
+                  src="images/straitstimes/straitstimes.png"
+                  alt="straits times"
+              /></a>
+
+              <a href="project.html?projectId=3"
+                ><img
+                  class="img-fluid border border-secondary float-left mb-3"
+                  src="images/to-do/to-do.png"
+                  alt="to-do"
+              /></a>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12">
+              <a href="project.html?projectId=4"
+                ><img
+                  class="img-fluid border border-secondary float-left mb-3"
+                  src="images/airbnb/airbnb.png"
+                  alt="airbnb"
+              /></a>
+
+              <a href="project.html?projectId=5"
+                ><img
+                  class="img-fluid border border-secondary float-left mb-3"
+                  src="images/deliveroo/deliveroo.png"
+                  alt="deliveroo"
+              /></a>
+
+              <a href="project.html?projectId=6"
+                ><img
+                  class="img-fluid border border-secondary float-left mb-3"
+                  src="images/grabfood/grabfood.png"
+                  alt="grabfood"
+              /></a>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12">
+              <a href="project.html?projectId=7"
+                ><img
+                  class="img-fluid border border-secondary float-left mb-3"
+                  src="images/twitter/twitter.png"
+                  alt="twitter"
+              /></a>
+
+              <a href="project.html?projectId=8"
+                ><img
+                  class="img-fluid border border-secondary float-left mb-3"
+                  src="images/news_template/news_template.png"
+                  alt="news template"
+              /></a>
+            </div>
           </div>
         </div>
       </div>
     </div>
-  </div>
 
-  <!-- Importing scripts to insert navbar and populate projects page -->
-  <script src="scripts.js"></script>
-  <!-- Importing third party scripts -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
-    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
-    crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
-    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
-    crossorigin="anonymous"></script>
-</body>
-
+    <!-- Importing scripts to insert navbar and populate projects page -->
+    <script src="scripts.js"></script>
+    <!-- Importing third party scripts -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+      integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+      integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+      crossorigin="anonymous"
+    ></script>
+  </body>
 </html>
