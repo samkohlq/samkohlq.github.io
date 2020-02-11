@@ -2,46 +2,55 @@
   {
     "name": "Facebook",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
-    "img_src": "../images/facebook/facebook.png"
+    "img_src": "../images/facebook/facebook.png",
+    "project_url": "#somelink"
   },
   {
     "name": "Spotify",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
-    "img_src": "../images/spotify/spotify.png"
+    "img_src": "../images/spotify/spotify.png",
+    "project_url": "#somelink"
   },
   {
     "name": "Straits Times",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
-    "img_src": "../images/straitstimes/straitstimes.png"
+    "img_src": "../images/straitstimes/straitstimes.png",
+    "project_url": "https://samkohlq.github.io/straits-times-clone/"
   },
   {
     "name": "to-do list",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
-    "img_src": "../images/to-do/to-do.png"
+    "img_src": "../images/to-do/to-do.png",
+    "project_url": "#somelink"
   },
   {
     "name": "Airbnb",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
-    "img_src": "../images/airbnb/airbnb.png"
+    "img_src": "../images/airbnb/airbnb.png",
+    "project_url": "#somelink"
   },
   {
     "name": "Deliveroo",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
-    "img_src": "../images/deliveroo/deliveroo.png"
+    "img_src": "../images/deliveroo/deliveroo.png",
+    "project_url": "#somelink"
   },
   {
     "name": "Grabfood",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
-    "img_src": "../images/grabfood/grabfood.png"
+    "img_src": "../images/grabfood/grabfood.png",
+    "project_url": "#somelink"
   },
   {
     "name": "Twitter",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
-    "img_src": "../images/twitter/twitter.png"
+    "img_src": "../images/twitter/twitter.png",
+    "project_url": "#somelink"
   },
   {
     "name": "a news site template",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
-    "img_src": "../images/news_template/news_template.png"
+    "img_src": "../images/news_template/news_template.png",
+    "project_url": "#somelink"
   }
 ]
