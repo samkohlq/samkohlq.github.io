@@ -21,7 +21,7 @@
     "name": "to-do list",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
     "img_src": "../images/to-do/to-do.png",
-    "project_url": "#somelink"
+    "project_url": "https://samkohlq.github.io/to-do"
   },
   {
     "name": "Airbnb",
