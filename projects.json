@@ -52,5 +52,11 @@
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
     "img_src": "../images/news_template/news_template.png",
     "project_url": "#somelink"
+  },
+  {
+    "name": "a lennon wall",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
+    "img_src": "../images/lennon_wall/lennon_wall.png",
+    "project_url": "https://sleepy-citadel-71783.herokuapp.com/walls/lennonwall"
   }
 ]
