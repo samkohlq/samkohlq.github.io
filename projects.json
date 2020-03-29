@@ -1,21 +1,27 @@
 [
   {
-    "name": "Facebook",
+    "name": "soccer pitch booker",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
-    "img_src": "../images/facebook/facebook.png",
+    "img_src": "../images/pitchbooker/pitchbooker.png",
     "project_url": "#somelink"
   },
   {
-    "name": "Spotify",
+    "name": "a lennon wall",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
-    "img_src": "../images/spotify/spotify.png",
-    "project_url": "#somelink"
+    "img_src": "../images/lennon_wall/lennon_wall.png",
+    "project_url": "https://sleepy-citadel-71783.herokuapp.com/walls/lennonwall"
   },
   {
-    "name": "Straits Times",
+    "name": "an instagram feed",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
-    "img_src": "../images/straitstimes/straitstimes.png",
-    "project_url": "https://samkohlq.github.io/straits-times-clone/"
+    "img_src": "../images/instagram-feed/instagram-feed.png",
+    "project_url": "https://instagram-feed-1a4be.firebaseapp.com/"
+  },
+  {
+    "name": "a news site template",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
+    "img_src": "../images/news_template/news_template.png",
+    "project_url": "https://samkohlq.github.io/news_template/"
   },
   {
     "name": "to-do list",
@@ -24,39 +30,9 @@
     "project_url": "https://samkohlq.github.io/to-do"
   },
   {
-    "name": "Airbnb",
+    "name": "Straits Times",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
-    "img_src": "../images/airbnb/airbnb.png",
-    "project_url": "#somelink"
-  },
-  {
-    "name": "Deliveroo",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
-    "img_src": "../images/deliveroo/deliveroo.png",
-    "project_url": "#somelink"
-  },
-  {
-    "name": "Grabfood",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
-    "img_src": "../images/grabfood/grabfood.png",
-    "project_url": "#somelink"
-  },
-  {
-    "name": "Twitter",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
-    "img_src": "../images/twitter/twitter.png",
-    "project_url": "#somelink"
-  },
-  {
-    "name": "a news site template",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
-    "img_src": "../images/news_template/news_template.png",
-    "project_url": "#somelink"
-  },
-  {
-    "name": "a lennon wall",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
-    "img_src": "../images/lennon_wall/lennon_wall.png",
-    "project_url": "https://sleepy-citadel-71783.herokuapp.com/walls/lennonwall"
+    "img_src": "../images/straitstimes/straitstimes.png",
+    "project_url": "https://samkohlq.github.io/straits-times-clone/"
   }
 ]
