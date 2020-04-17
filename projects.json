@@ -1,6 +1,6 @@
 [
   {
-    "name": "soccer pitch booker",
+    "name": "Soccer Pitch Booker",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
     "img_src": "../images/pitchbooker/pitchbooker.png",
     "project_url": "https://pitch-booker.herokuapp.com/"
@@ -16,12 +16,6 @@
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
     "img_src": "../images/instagram-feed/instagram-feed.png",
     "project_url": "https://instagram-feed-1a4be.firebaseapp.com/"
-  },
-  {
-    "name": "a news site template",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erat nunc, ornare et erosnec, ultricies semper felis. Vestibulum egestas eu metus sed luctus. Fusce id conguemetus. Aliquam feugiat eu leo suscipit feugiat. In in purus eget odio tincidunt accumsan. Suspendisse lacinia massa ut lorem accumsan commodo.",
-    "img_src": "../images/news_template/news_template.png",
-    "project_url": "https://samkohlq.github.io/news_template/"
   },
   {
     "name": "to-do list",
